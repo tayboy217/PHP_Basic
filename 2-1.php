@@ -8,3 +8,4 @@ if ($number > 10) {
 } else {
   echo '10よりも小さいです';
 }
+r
